@@ -23,3 +23,4 @@ Predict flower name from an image with predict.py along with the probability of 
   - Return top KK most likely classes: python predict.py input checkpoint --top_k 3
   - Use a mapping of categories to real names: python predict.py input checkpoint --category_names cat_to_name.json
   - Use GPU for inference: python predict.py input checkpoint --gpu
+ 
